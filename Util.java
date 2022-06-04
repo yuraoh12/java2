@@ -1,4 +1,4 @@
-package practice4;
+package prohec;
 
 public class Util {
 

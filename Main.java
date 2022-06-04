@@ -1,5 +1,12 @@
-package practice4;
+package prohec;
 
 public class Main {
+
+	public static void main(String[] args) {
+
+		Board board = new Board();
+		board.run();
+		
+	}
 
 }
